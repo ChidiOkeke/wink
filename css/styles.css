@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+header {
+    background-color: #bc3908;
+    color: white;
+    padding: 15px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.case-study {
+    padding: 50px 20px;
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.case-study h1 {
+    color: #bc3908;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.case-study img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.case-study h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+
+.case-study p {
+    color: #666;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.w-100{
+    width: 100%;
+}
+.w-50{
+    width: 50%;
+}
+.float-left{
+    float: left;
+}
+.case-study li{
+    margin-top: 1.2rem;
+    line-height: 1.5rem;
+}
+.center-block{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 2rem;
+}
